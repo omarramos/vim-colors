@@ -279,6 +279,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("PreProc", "AFC4DB", "", "")
     call <SID>X("Type", "F9EE98", "", "")
     call <SID>X("Special", "DAEFA3", "", "")
+    call <SID>X("Directory", "EBEBEB", "", "")
     "Underlined
     call <SID>X("Ignore", "666666", "", "")
     "Error
